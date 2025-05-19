@@ -1,0 +1,15 @@
+# Ignore Qodo and Python cache
+.qodo
+__pycache__/
+
+crowd_count.log
+.env
+logs/
+crowd_count_5112190525_to_5212190525.pdf
+crowd_count_records.csv
+*.pdf
+*.csv
+# Ignore VSCode settings
+.vscode/
+# Ignore object files and folders
+obj/
